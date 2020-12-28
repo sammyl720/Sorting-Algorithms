@@ -1,11 +1,11 @@
 # Sorting Algorithms
 
 ---
-#####[What is sorting?](SORTING.md)
+##### [What is sorting?](SORTING.md)
 
 ---
 
-#####[Javascript built-in sorting function](JAVASCRIPTSORTING.md)
+##### [Javascript built-in sorting function](JAVASCRIPTSORTING.md)
 ---
 1. [Bubble Sort](BUBBLESORT.md)
 1. [Selection Sort](SELECTIONSORT.md)
