@@ -1,3 +1,4 @@
+[<button style="outline:none;border:none;border-radius:500px;padding: 8px 12px;cursor:pointer;background-color:#11698e;color:white;">Back</button>](README.md)
 ### Selection Sort
 Similiar to bubble sort, but instead of first placing 
 large values into sorted position, it places small values into sorted position.
@@ -34,4 +35,9 @@ function selectionSort(arr){
 ```
 ---
 ### Big O time complexity of Selection Sort
-O(N^2)
+O(N^2^)
+
+---
+
+[<button style="outline:none;border:none;border-radius:500px;padding: 8px 12px;cursor:pointer;background-color:#11698e;color:white;">Back</button>](README.md)
+ 

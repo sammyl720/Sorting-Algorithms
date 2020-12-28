@@ -1,3 +1,4 @@
+[<button style="outline:none;border:none;border-radius:500px;padding: 8px 12px;cursor:pointer;background-color:#11698e;color:white;">Back</button>](README.md)
 ### Insertion Sort
 ---
 
@@ -26,4 +27,8 @@ function insertionSort(arr){
 ```
 ---
 ### Big O Notation time complexity of insertion sort
-O(N^2)
+O(N^2^)
+
+---
+
+[<button style="outline:none;border:none;border-radius:500px;padding: 8px 12px;cursor:pointer;background-color:#11698e;color:white;">Back</button>](README.md)

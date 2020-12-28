@@ -1,3 +1,4 @@
+[<button style="outline:none;border:none;border-radius:500px;padding: 8px 12px;cursor:pointer;background-color:#11698e;color:white;">Back</button>](README.md)
 ### Javascript has a sort method...
 
 ---
@@ -34,3 +35,6 @@ function numberCompare(num1, num2){
 // [4,6,10,15]
 ~~~
 
+---
+
+[<button style="outline:none;border:none;border-radius:500px;padding: 8px 12px;cursor:pointer;background-color:#11698e;color:white;">Back</button>](README.md)

@@ -1,3 +1,4 @@
+[<button style="outline:none;border:none;border-radius:500px;padding: 8px 12px;cursor:pointer;background-color:#11698e;color:white;">Back</button>](README.md)
 ### What is sorting?
 ---
 
@@ -33,3 +34,7 @@ sort([23,45,6,12,13]);
 - Implement selection sort
 - Implement insertion sort
 - Understand why it is important to learn these simpler sorting algorithms
+
+---
+
+[<button style="outline:none;border:none;border-radius:500px;padding: 8px 12px;cursor:pointer;background-color:#11698e;color:white;">Back</button>](README.md)

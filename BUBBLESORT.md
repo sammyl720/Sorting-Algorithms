@@ -1,3 +1,4 @@
+[<button style="outline:none;border:none;border-radius:500px;padding: 8px 12px;cursor:pointer;background-color:#11698e;color:white;">Back</button>](README.md)
 ### Bubble Sort
 ---
 
@@ -79,4 +80,7 @@ function bubbleSort(arr) {
 
 ### Big O time complexity of Bubble Sort
  **Best Case:** O(N)
- **Worst Case:** O(N^2)
+ **Worst Case:** O(N^2^)
+
+---
+[<button style="outline:none;border:none;border-radius:500px;padding: 8px 12px;cursor:pointer;background-color:#11698e;color:white;">Back</button>](README.md)
