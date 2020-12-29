@@ -15,3 +15,4 @@
 ##### [Comparing Bubble, Selection, and Insertion Sorting algorithms](ComparingBubbleSelectionInsert.md)
 ---
 
+### [Intermediate Sorting algorithms](INTERMEDIATE.md)
