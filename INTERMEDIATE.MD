@@ -4,7 +4,7 @@
 ### Objectives
 - Understand the limitations of the sorting algorithms we've learned so far.
 - [Implement merge sort](MERGESORT.md)
-- Implement quick sort
+- [Implement quick sort](QUICKSORT.md)
 - Implement radix sort
 
 ---
